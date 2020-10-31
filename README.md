@@ -2,9 +2,15 @@
 Learning how to do data science and analysis using Python
 
 Modules used:
-numpy
-matplotlib
-scipy
-pandas
-seaborn
-plotly
+
+-numpy
+
+-matplotlib
+
+-scipy
+
+-pandas
+
+-seaborn
+
+-plotly
