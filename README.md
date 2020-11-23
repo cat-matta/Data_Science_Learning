@@ -1,16 +1,23 @@
 # Data_Science_Learning
-Learning how to do data science and analysis using Python
+Learning how to do data science and analysis using Python. Plans to mess around with machine learning later.
 
-Modules used:
+###### Modules used:
 
--numpy
+- numpy
 
--matplotlib
+- matplotlib
 
--scipy
+- scipy
 
--pandas
+- pandas
 
--seaborn
+- seaborn
 
--plotly
+- plotly
+
+###### Later on plans
+- scikit-learn
+
+- pytorch
+
+- tensorflow
